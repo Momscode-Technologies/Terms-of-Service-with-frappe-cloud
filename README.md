@@ -1,3 +1,4 @@
+### Terms of Service (ToS)
 Terms of Service (ToS) describe the rules and guidelines that govern the use of a software or service provided by a company. The description you provided includes two terms: GNU/General Public License and Momscode Technology Private Limited. Here's an explanation of each term:
 
 ### GNU/General Public License (GPL):
